@@ -1,4 +1,3 @@
-
 # Employee Management REST API
 
 A backend REST API built using **Spring Boot** for managing employee records.  
